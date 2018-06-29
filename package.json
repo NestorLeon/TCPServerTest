@@ -1,0 +1,16 @@
+{
+  "name": "kinecttcpserver",
+  "version": "0.0.1",
+  "description": "Kinect TCP Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kinect",
+    "TCP",
+    "Server"
+  ],
+  "author": "Néstor León Vega",
+  "license": "MIT"
+}
