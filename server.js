@@ -1,7 +1,7 @@
 
 var Servidor = require('./servidor');
 
-var HOST = 'localhost';
-var PORT = 8080;
+var HOST = 'https://tcpservertest.herokuapp.com';
+var PORT = 4040;
 
 Servidor(HOST, PORT);
